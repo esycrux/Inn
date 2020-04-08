@@ -2,7 +2,7 @@
 
 
 ## Pirate
-have Name, Hp, AlcoholLevel and list of drinks
+have Name, Hp, AlcoholLevel and list of drinks he have and list of drink he had
 
 When you creating instance of pirate, you can specify gold ammount, If you dont specify it, it should get random value between 10 - 30
 
@@ -43,7 +43,7 @@ It should have method **GetSummary** which return count for every drink pirates 
 	{ beer: 7}
 
 It should have method **GetCost** with optional parameter pirate
-	If you pass pirate return cost of the Drink he had
+	If you pass pirate return cost of the Drinks he had
 	If you use it withou paramater count cost for all drinks for all pirates
 
 It should have method **OneMoreRound** when all pirates buy a drink
