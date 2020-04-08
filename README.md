@@ -49,3 +49,4 @@ It should have method OneMoreRound when all pirates buy a drink
 
 It should have method PArty method. in this method pirate will spend all their money and buy drink. After every round they will drink drink.
 	There is 50% chance the captain will use GrabDrink method to a random pirate
+this methos should run until anyone can Buy a drink
