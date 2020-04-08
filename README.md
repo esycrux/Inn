@@ -10,9 +10,7 @@ After pirate buys a drink you should incerase alcohol level by 2 for beer by 6 f
 he should have Drink method that print message into conosle
 	if alhocol level is under 15 he will yell "Cheers, and he drink his {drink}" 
 	in that case use name of the latest drink he bought
-	
 	if pirate doesn have any drink he will yell "Gimee that booze!"
-	
 	if his alcohol level is over 15 he will yell "Yaaaaaarrrr"
 
 ### Captain
