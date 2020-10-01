@@ -33,7 +33,7 @@ It should have method **JoinParty** taking pirate as an argument.
 	Ther should be only one captain in Inn
 	pirate will be added to pirate list in this Inn
 
-it should have **SellDrink** method which take operate as an argument.
+it should have **SellDrink** method which take pirate as an argument.
 	If pirate have more than 20 gold he will receive Rum and will decrase his gold count by 5
 	If pirate have less than 20 gold, he should receive beer and will cost him 2 golds
 	If pirate have less than 2 gold, bartender only shout on him
